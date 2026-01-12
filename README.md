@@ -36,11 +36,11 @@
 Добавьте пользователя cryptouser.
 Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
-![Task1](screenshots/1.png)
+![Task1](screenshots/sechost.png)
 
 ### Задание 2
 Установите поддержку LUKS.
 Создайте небольшой раздел, например, 100 Мб.
 Зашифруйте созданный раздел с помощью LUKS.
 
-![Task1](screenshots/2.png)
+![Task1](screenshots/sechost1.png)
